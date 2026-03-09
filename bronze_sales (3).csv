@@ -1,0 +1,201 @@
+order_id,customer_id,customer_name,product_name,category,quantity,unit_price,order_date,payment_method,shipping_city,shipping_country
+ORD001,CUST181,Sneha Reddy,Wireless Mouse,Electronics,3,599.99,08-01-2026,Debit Card,Mumbai,India
+ORD002,CUST194,Sneha Reddy,Headphones,Electronics,5,1299.49,03-01-2026,Net Banking,Kolkata,India
+ORD003,CUST104,Ravi Kumar,Running Shoes,Fashion,2,2499.5,08-01-2026,Net Banking,Kochi,India
+ORD004,CUST103,Anjali Mehta,Smartphone,Electronics,5,18999.99,14-01-2026,Debit Card,Ahmedabad,India
+ORD005,CUST175,Kiran Rao,Study Lamp,Home Decor,1,899,25-01-2026,Debit Card,Patna,India
+ORD006,CUST154,Neha Jain,Coffee Maker,Home Appliances,2,3499.75,07-01-2026,UPI,Hyderabad,India
+ORD007,CUST111,Vikram Singh,Running Shoes,Fashion,3,2499.5,28-01-2026,UPI,Kochi,India
+ORD008,CUST133,Deepak Yadav,Wireless Mouse,Electronics,4,599.99,18-01-2026,Credit Card,Kolkata,India
+ORD009,CUST110,Anjali Mehta,Coffee Maker,Home Appliances,5,3499.75,29-01-2026,UPI,Kochi,India
+ORD010,CUST124,Rahul Verma,Running Shoes,Fashion,1,2499.5,22-01-2026,Debit Card,Chennai,India
+ORD011,CUST110,Kavya Pillai,Smartphone,Electronics,1,18999.99,13-01-2026,UPI,Ahmedabad,India
+ORD012,CUST181,Kavya Pillai,Backpack,Fashion,2,799,12-01-2026,UPI,Delhi,India
+ORD013,CUST185,Kiran Rao,T-shirt,Fashion,1,499,20-01-2026,Debit Card,Jaipur,India
+ORD014,CUST193,Priya Sharma,Office Chair,Furniture,4,8999,13-01-2026,UPI,Noida,India
+ORD015,CUST188,Anjali Mehta,Smartphone,Electronics,3,18999.99,27-01-2026,Credit Card,Delhi,India
+ORD016,CUST104,Deepak Yadav,Backpack,Fashion,4,799,09-01-2026,Credit Card,Delhi,India
+ORD017,CUST172,Manoj Gupta,T-shirt,Fashion,3,499,07-01-2026,Cash,Kolkata,India
+ORD018,CUST182,Amit Das,Office Chair,Furniture,3,8999,05-01-2026,Debit Card,Patna,India
+ORD019,CUST171,Anjali Mehta,Coffee Maker,Home Appliances,5,3499.75,14-01-2026,Net Banking,Kolkata,India
+ORD020,CUST146,Priya Sharma,Office Chair,Furniture,5,8999,16-01-2026,Credit Card,Bangalore,India
+ORD021,CUST114,Arjun Patel,Headphones,Electronics,2,1299.49,26-01-2026,Cash,Kochi,India
+ORD022,CUST108,Vikram Singh,Laptop,Electronics,5,55999,15-01-2026,Net Banking,Chennai,India
+ORD023,CUST170,Kavya Pillai,Wireless Mouse,Electronics,1,599.99,22-01-2026,Net Banking,Chennai,India
+ORD024,CUST198,Pooja Nair,Backpack,Fashion,1,799,10-01-2026,Cash,Mumbai,India
+ORD025,CUST158,Ravi Kumar,T-shirt,Fashion,3,499,17-01-2026,Debit Card,Jaipur,India
+ORD026,CUST113,Kavya Pillai,Headphones,Electronics,3,1299.49,27-01-2026,Net Banking,Kochi,India
+ORD027,CUST125,Arjun Patel,Backpack,Fashion,2,799,18-01-2026,Net Banking,Bangalore,India
+ORD028,CUST176,Neha Jain,Water Bottle,Accessories,1,299.99,04-01-2026,UPI,Chennai,India
+ORD029,CUST130,Ravi Kumar,Smartphone,Electronics,5,18999.99,31-01-2026,Credit Card,Hyderabad,India
+ORD030,CUST193,Amit Das,Notebook,Stationery,1,49.99,25-01-2026,Net Banking,Mumbai,India
+ORD031,CUST116,Pooja Nair,Water Bottle,Accessories,5,299.99,06-01-2026,UPI,Jaipur,India
+ORD032,CUST177,Vikram Singh,Smartphone,Electronics,5,18999.99,25-01-2026,Debit Card,Patna,India
+ORD033,CUST139,Vikram Singh,Headphones,Electronics,3,1299.49,15-01-2026,Net Banking,Ahmedabad,India
+ORD034,CUST115,Priya Sharma,Smartphone,Electronics,1,18999.99,11-01-2026,Credit Card,Kochi,India
+ORD035,CUST170,Priya Sharma,Air Fryer,Home Appliances,2,6999,01-01-2026,Credit Card,Patna,India
+ORD036,CUST180,Ravi Kumar,Smartphone,Electronics,1,18999.99,29-01-2026,Credit Card,Pune,India
+ORD037,CUST109,Anjali Mehta,Smartphone,Electronics,3,18999.99,22-01-2026,Cash,Delhi,India
+ORD038,CUST169,Arjun Patel,T-shirt,Fashion,5,499,19-01-2026,Cash,Delhi,India
+ORD039,CUST160,Deepak Yadav,Laptop,Electronics,2,55999,04-01-2026,Credit Card,Noida,India
+ORD040,CUST155,Neha Jain,Laptop,Electronics,4,55999,15-01-2026,Credit Card,Noida,India
+ORD041,CUST183,Pooja Nair,Running Shoes,Fashion,1,2499.5,13-01-2026,UPI,Hyderabad,India
+ORD042,CUST131,Priya Sharma,Smartphone,Electronics,5,18999.99,15-01-2026,Debit Card,Kolkata,India
+ORD043,CUST123,Kiran Rao,Water Bottle,Accessories,2,299.99,28-01-2026,Credit Card,Ahmedabad,India
+ORD044,CUST170,Sneha Reddy,Wireless Mouse,Electronics,5,599.99,27-01-2026,Credit Card,Hyderabad,India
+ORD045,CUST196,Kavya Pillai,Smartphone,Electronics,2,18999.99,14-01-2026,Cash,Ahmedabad,India
+ORD046,CUST127,Kavya Pillai,Laptop,Electronics,1,55999,06-01-2026,Cash,Bangalore,India
+ORD047,CUST149,Kiran Rao,Tablet,Electronics,4,22999,10-01-2026,Cash,Patna,India
+ORD048,CUST193,Deepak Yadav,Dining Table,Furniture,4,15999,05-01-2026,Debit Card,Chennai,India
+ORD049,CUST127,Ravi Kumar,Air Fryer,Home Appliances,5,6999,02-01-2026,UPI,Bangalore,India
+ORD050,CUST106,Suresh Iyer,Water Bottle,Accessories,5,299.99,30-01-2026,Net Banking,Mumbai,India
+ORD051,CUST107,Anjali Mehta,Running Shoes,Fashion,2,2499.5,03-01-2026,Net Banking,Hyderabad,India
+ORD052,CUST186,Kavya Pillai,Smartphone,Electronics,4,18999.99,04-01-2026,Net Banking,Delhi,India
+ORD053,CUST174,Suresh Iyer,Wireless Mouse,Electronics,5,599.99,03-01-2026,Cash,Noida,India
+ORD054,CUST174,Suresh Iyer,Dining Table,Furniture,3,15999,30-01-2026,UPI,Delhi,India
+ORD055,CUST185,Rahul Verma,Backpack,Fashion,2,799,09-01-2026,Cash,Mumbai,India
+ORD056,CUST185,Pooja Nair,Coffee Maker,Home Appliances,4,3499.75,11-01-2026,Credit Card,Bangalore,India
+ORD057,CUST158,Suresh Iyer,Air Fryer,Home Appliances,1,6999,03-01-2026,Net Banking,Delhi,India
+ORD058,CUST164,Kiran Rao,Office Chair,Furniture,3,8999,29-01-2026,Credit Card,Delhi,India
+ORD059,CUST147,Kiran Rao,Office Chair,Furniture,4,8999,27-01-2026,Net Banking,Patna,India
+ORD060,CUST138,Suresh Iyer,Study Lamp,Home Decor,5,899,01-01-2026,Net Banking,Chennai,India
+ORD061,CUST184,Sneha Reddy,Tablet,Electronics,2,22999,09-01-2026,Credit Card,Hyderabad,India
+ORD062,CUST195,Anjali Mehta,Office Chair,Furniture,3,8999,10-01-2026,Net Banking,Delhi,India
+ORD063,CUST191,Neha Jain,Smartphone,Electronics,3,18999.99,17-01-2026,Cash,Chennai,India
+ORD064,CUST106,Sneha Reddy,Headphones,Electronics,4,1299.49,27-01-2026,UPI,Bangalore,India
+ORD065,CUST100,Neha Jain,Study Lamp,Home Decor,2,899,21-01-2026,UPI,Mumbai,India
+ORD066,CUST194,Amit Das,Dining Table,Furniture,4,15999,18-01-2026,Credit Card,Hyderabad,India
+ORD067,CUST109,Manoj Gupta,T-shirt,Fashion,2,499,18-01-2026,Credit Card,Pune,India
+ORD068,CUST174,Anjali Mehta,Office Chair,Furniture,4,8999,05-01-2026,Credit Card,Chennai,India
+ORD069,CUST146,Manoj Gupta,Tablet,Electronics,1,22999,29-01-2026,UPI,Delhi,India
+ORD070,CUST187,Priya Sharma,Headphones,Electronics,1,1299.49,12-01-2026,Net Banking,Kolkata,India
+ORD071,CUST179,Rahul Verma,Office Chair,Furniture,2,8999,28-01-2026,Debit Card,Mumbai,India
+ORD072,CUST152,Ravi Kumar,Office Chair,Furniture,3,8999,26-01-2026,Cash,Noida,India
+ORD073,CUST194,Deepak Yadav,Smartphone,Electronics,3,18999.99,06-01-2026,Credit Card,Kolkata,India
+ORD074,CUST104,Kavya Pillai,Water Bottle,Accessories,2,299.99,07-01-2026,Cash,Pune,India
+ORD075,CUST139,Kavya Pillai,Study Lamp,Home Decor,2,899,08-01-2026,Credit Card,Noida,India
+ORD076,CUST124,Vikram Singh,Backpack,Fashion,3,799,28-01-2026,Credit Card,Chennai,India
+ORD077,CUST144,Pooja Nair,Dining Table,Furniture,4,15999,22-01-2026,Net Banking,Pune,India
+ORD078,CUST103,Sneha Reddy,Tablet,Electronics,3,22999,06-01-2026,Net Banking,Chennai,India
+ORD079,CUST104,Sneha Reddy,Air Fryer,Home Appliances,4,6999,12-01-2026,UPI,Kolkata,India
+ORD080,CUST177,Anjali Mehta,Running Shoes,Fashion,4,2499.5,29-01-2026,Net Banking,Delhi,India
+ORD081,CUST132,Ravi Kumar,T-shirt,Fashion,4,499,01-01-2026,Net Banking,Jaipur,India
+ORD082,CUST187,Rahul Verma,T-shirt,Fashion,2,499,12-01-2026,Cash,Hyderabad,India
+ORD083,CUST185,Manoj Gupta,Backpack,Fashion,5,799,11-01-2026,Credit Card,Patna,India
+ORD084,CUST138,Anjali Mehta,Coffee Maker,Home Appliances,4,3499.75,11-01-2026,Cash,Patna,India
+ORD085,CUST137,Anjali Mehta,Office Chair,Furniture,2,8999,14-01-2026,Cash,Noida,India
+ORD086,CUST195,Manoj Gupta,Office Chair,Furniture,5,8999,19-01-2026,UPI,Kolkata,India
+ORD087,CUST170,Kavya Pillai,Wireless Mouse,Electronics,3,599.99,10-01-2026,Debit Card,Kolkata,India
+ORD088,CUST174,Suresh Iyer,Headphones,Electronics,3,1299.49,15-01-2026,Cash,Ahmedabad,India
+ORD089,CUST186,Priya Sharma,Dining Table,Furniture,4,15999,26-01-2026,Debit Card,Noida,India
+ORD090,CUST110,Kiran Rao,Dining Table,Furniture,5,15999,11-01-2026,Credit Card,Delhi,India
+ORD091,CUST186,Kiran Rao,Smartphone,Electronics,2,18999.99,05-01-2026,Credit Card,Bangalore,India
+ORD092,CUST131,Amit Das,Air Fryer,Home Appliances,1,6999,15-01-2026,Cash,Noida,India
+ORD093,CUST173,Priya Sharma,T-shirt,Fashion,4,499,16-01-2026,Cash,Delhi,India
+ORD094,CUST118,Pooja Nair,T-shirt,Fashion,1,499,29-01-2026,Credit Card,Kolkata,India
+ORD095,CUST128,Arjun Patel,Study Lamp,Home Decor,5,899,15-01-2026,Credit Card,Jaipur,India
+ORD096,CUST131,Manoj Gupta,Notebook,Stationery,1,49.99,15-01-2026,Debit Card,Ahmedabad,India
+ORD097,CUST185,Anjali Mehta,Dining Table,Furniture,5,15999,11-01-2026,Cash,Kochi,India
+ORD098,CUST192,Manoj Gupta,Dining Table,Furniture,4,15999,27-01-2026,Net Banking,Ahmedabad,India
+ORD099,CUST120,Rahul Verma,Notebook,Stationery,4,49.99,15-01-2026,UPI,Delhi,India
+ORD100,CUST181,Kiran Rao,Study Lamp,Home Decor,5,899,16-01-2026,Debit Card,Chennai,India
+ORD101,CUST156,Sneha Reddy,T-shirt,Fashion,3,499,08-01-2026,UPI,Pune,India
+ORD102,CUST140,Manoj Gupta,Dining Table,Furniture,1,15999,05-01-2026,Debit Card,Delhi,India
+ORD103,CUST149,Rahul Verma,Office Chair,Furniture,2,8999,03-01-2026,Cash,Kolkata,India
+ORD104,CUST142,Anjali Mehta,Water Bottle,Accessories,4,299.99,02-01-2026,Debit Card,Kolkata,India
+ORD105,CUST149,Manoj Gupta,Study Lamp,Home Decor,5,899,31-01-2026,Credit Card,Kochi,India
+ORD106,CUST148,Amit Das,Wireless Mouse,Electronics,3,599.99,10-01-2026,Cash,Kolkata,India
+ORD107,CUST168,Rahul Verma,T-shirt,Fashion,5,499,26-01-2026,Net Banking,Delhi,India
+ORD108,CUST162,Priya Sharma,Coffee Maker,Home Appliances,4,3499.75,16-01-2026,Credit Card,Kolkata,India
+ORD109,CUST143,Pooja Nair,Headphones,Electronics,4,1299.49,24-01-2026,Debit Card,Ahmedabad,India
+ORD110,CUST116,Suresh Iyer,Dining Table,Furniture,1,15999,30-01-2026,Cash,Kochi,India
+ORD111,CUST172,Pooja Nair,Wireless Mouse,Electronics,1,599.99,21-01-2026,Cash,Mumbai,India
+ORD112,CUST159,Arjun Patel,Wireless Mouse,Electronics,3,599.99,13-01-2026,UPI,Delhi,India
+ORD113,CUST158,Neha Jain,Backpack,Fashion,4,799,09-01-2026,Cash,Chennai,India
+ORD114,CUST110,Amit Das,Wireless Mouse,Electronics,5,599.99,02-01-2026,UPI,Delhi,India
+ORD115,CUST183,Sneha Reddy,Study Lamp,Home Decor,1,899,25-01-2026,Credit Card,Delhi,India
+ORD116,CUST125,Kavya Pillai,Wireless Mouse,Electronics,5,599.99,05-01-2026,Debit Card,Mumbai,India
+ORD117,CUST160,Pooja Nair,Running Shoes,Fashion,5,2499.5,31-01-2026,Debit Card,Ahmedabad,India
+ORD118,CUST189,Kiran Rao,Study Lamp,Home Decor,3,899,06-01-2026,Net Banking,Kochi,India
+ORD119,CUST195,Rahul Verma,Running Shoes,Fashion,2,2499.5,31-01-2026,UPI,Hyderabad,India
+ORD120,CUST174,Ravi Kumar,Tablet,Electronics,3,22999,19-01-2026,Cash,Kolkata,India
+ORD121,CUST191,Priya Sharma,Running Shoes,Fashion,5,2499.5,23-01-2026,Debit Card,Hyderabad,India
+ORD122,CUST189,Deepak Yadav,Coffee Maker,Home Appliances,5,3499.75,26-01-2026,Credit Card,Kochi,India
+ORD123,CUST105,Neha Jain,Dining Table,Furniture,4,15999,22-01-2026,UPI,Hyderabad,India
+ORD124,CUST164,Pooja Nair,Backpack,Fashion,1,799,28-01-2026,Cash,Ahmedabad,India
+ORD125,CUST113,Vikram Singh,Backpack,Fashion,4,799,23-01-2026,Debit Card,Kolkata,India
+ORD126,CUST122,Rahul Verma,Dining Table,Furniture,3,15999,20-01-2026,Net Banking,Ahmedabad,India
+ORD127,CUST159,Vikram Singh,Notebook,Stationery,5,49.99,09-01-2026,UPI,Delhi,India
+ORD128,CUST111,Kiran Rao,Tablet,Electronics,4,22999,08-01-2026,Cash,Kochi,India
+ORD129,CUST178,Pooja Nair,Laptop,Electronics,3,55999,01-01-2026,Cash,Pune,India
+ORD130,CUST123,Amit Das,Smartphone,Electronics,3,18999.99,26-01-2026,UPI,Pune,India
+ORD131,CUST135,Manoj Gupta,Air Fryer,Home Appliances,3,6999,18-01-2026,Credit Card,Jaipur,India
+ORD132,CUST124,Sneha Reddy,Smartphone,Electronics,4,18999.99,16-01-2026,Net Banking,Delhi,India
+ORD133,CUST188,Amit Das,Headphones,Electronics,4,1299.49,15-01-2026,Credit Card,Hyderabad,India
+ORD134,CUST137,Priya Sharma,Laptop,Electronics,2,55999,10-01-2026,Net Banking,Pune,India
+ORD135,CUST160,Anjali Mehta,Dining Table,Furniture,3,15999,14-01-2026,Net Banking,Pune,India
+ORD136,CUST145,Rahul Verma,Water Bottle,Accessories,3,299.99,10-01-2026,UPI,Delhi,India
+ORD137,CUST115,Rahul Verma,Smartphone,Electronics,3,18999.99,04-01-2026,Net Banking,Patna,India
+ORD138,CUST123,Priya Sharma,Smartphone,Electronics,4,18999.99,09-01-2026,Net Banking,Jaipur,India
+ORD139,CUST176,Kiran Rao,Running Shoes,Fashion,2,2499.5,10-01-2026,Debit Card,Pune,India
+ORD140,CUST122,Kiran Rao,Wireless Mouse,Electronics,5,599.99,05-01-2026,UPI,Bangalore,India
+ORD141,CUST106,Anjali Mehta,Coffee Maker,Home Appliances,2,3499.75,21-01-2026,Cash,Hyderabad,India
+ORD142,CUST101,Suresh Iyer,Coffee Maker,Home Appliances,4,3499.75,16-01-2026,Cash,Pune,India
+ORD143,CUST123,Ravi Kumar,Coffee Maker,Home Appliances,4,3499.75,04-01-2026,Credit Card,Kolkata,India
+ORD144,CUST162,Sneha Reddy,Air Fryer,Home Appliances,1,6999,05-01-2026,Debit Card,Kochi,India
+ORD145,CUST138,Sneha Reddy,Smartphone,Electronics,1,18999.99,18-01-2026,Cash,Kochi,India
+ORD146,CUST176,Deepak Yadav,Air Fryer,Home Appliances,2,6999,25-01-2026,Net Banking,Kolkata,India
+ORD147,CUST157,Manoj Gupta,Water Bottle,Accessories,3,299.99,28-01-2026,Net Banking,Kolkata,India
+ORD148,CUST139,Suresh Iyer,Air Fryer,Home Appliances,1,6999,20-01-2026,Credit Card,Delhi,India
+ORD149,CUST180,Priya Sharma,Coffee Maker,Home Appliances,1,3499.75,06-01-2026,Debit Card,Mumbai,India
+ORD150,CUST170,Sneha Reddy,Office Chair,Furniture,1,8999,14-01-2026,Cash,Patna,India
+ORD151,CUST176,Amit Das,Coffee Maker,Home Appliances,1,3499.75,08-01-2026,UPI,Patna,India
+ORD152,CUST136,Rahul Verma,Notebook,Stationery,4,49.99,03-01-2026,Debit Card,Chennai,India
+ORD153,CUST180,Suresh Iyer,Headphones,Electronics,2,1299.49,14-01-2026,Credit Card,Jaipur,India
+ORD154,CUST128,Pooja Nair,Office Chair,Furniture,3,8999,27-01-2026,Debit Card,Hyderabad,India
+ORD155,CUST107,Arjun Patel,Study Lamp,Home Decor,3,899,20-01-2026,Net Banking,Chennai,India
+ORD156,CUST156,Sneha Reddy,Water Bottle,Accessories,3,299.99,23-01-2026,Cash,Chennai,India
+ORD157,CUST164,Anjali Mehta,Water Bottle,Accessories,4,299.99,03-01-2026,Net Banking,Bangalore,India
+ORD158,CUST155,Rahul Verma,Backpack,Fashion,5,799,09-01-2026,Credit Card,Hyderabad,India
+ORD159,CUST129,Pooja Nair,Notebook,Stationery,5,49.99,19-01-2026,Credit Card,Noida,India
+ORD160,CUST134,Suresh Iyer,Wireless Mouse,Electronics,2,599.99,16-01-2026,Net Banking,Noida,India
+ORD161,CUST156,Manoj Gupta,Coffee Maker,Home Appliances,2,3499.75,19-01-2026,Cash,Noida,India
+ORD162,CUST162,Sneha Reddy,Water Bottle,Accessories,3,299.99,14-01-2026,UPI,Pune,India
+ORD163,CUST185,Sneha Reddy,Notebook,Stationery,2,49.99,11-01-2026,Cash,Patna,India
+ORD164,CUST163,Kiran Rao,Headphones,Electronics,4,1299.49,27-01-2026,Net Banking,Bangalore,India
+ORD165,CUST158,Sneha Reddy,Backpack,Fashion,3,799,11-01-2026,Credit Card,Kolkata,India
+ORD166,CUST165,Kavya Pillai,Wireless Mouse,Electronics,5,599.99,15-01-2026,Cash,Bangalore,India
+ORD167,CUST124,Anjali Mehta,Backpack,Fashion,5,799,25-01-2026,Cash,Noida,India
+ORD168,CUST156,Deepak Yadav,Wireless Mouse,Electronics,2,599.99,09-01-2026,Net Banking,Mumbai,India
+ORD169,CUST136,Amit Das,Tablet,Electronics,4,22999,04-01-2026,Credit Card,Noida,India
+ORD170,CUST177,Deepak Yadav,Smartphone,Electronics,2,18999.99,10-01-2026,Net Banking,Bangalore,India
+ORD171,CUST170,Vikram Singh,Running Shoes,Fashion,2,2499.5,27-01-2026,Credit Card,Ahmedabad,India
+ORD172,CUST115,Pooja Nair,Notebook,Stationery,2,49.99,16-01-2026,UPI,Jaipur,India
+ORD173,CUST190,Kiran Rao,Laptop,Electronics,4,55999,16-01-2026,Debit Card,Ahmedabad,India
+ORD174,CUST170,Arjun Patel,Laptop,Electronics,2,55999,30-01-2026,Net Banking,Jaipur,India
+ORD175,CUST195,Manoj Gupta,Office Chair,Furniture,1,8999,09-01-2026,Cash,Pune,India
+ORD176,CUST164,Kiran Rao,Notebook,Stationery,1,49.99,10-01-2026,UPI,Kochi,India
+ORD177,CUST174,Pooja Nair,Water Bottle,Accessories,2,299.99,15-01-2026,Net Banking,Ahmedabad,India
+ORD178,CUST144,Neha Jain,Dining Table,Furniture,5,15999,13-01-2026,Cash,Pune,India
+ORD179,CUST124,Rahul Verma,Smartphone,Electronics,5,18999.99,13-01-2026,Debit Card,Kolkata,India
+ORD180,CUST105,Neha Jain,T-shirt,Fashion,4,499,23-01-2026,Cash,Kolkata,India
+ORD181,CUST184,Deepak Yadav,Notebook,Stationery,2,49.99,16-01-2026,Credit Card,Mumbai,India
+ORD182,CUST164,Suresh Iyer,Backpack,Fashion,1,799,28-01-2026,Cash,Hyderabad,India
+ORD183,CUST167,Manoj Gupta,Water Bottle,Accessories,1,299.99,24-01-2026,Debit Card,Kolkata,India
+ORD184,CUST183,Arjun Patel,Running Shoes,Fashion,4,2499.5,26-01-2026,UPI,Pune,India
+ORD185,CUST179,Rahul Verma,Laptop,Electronics,1,55999,28-01-2026,UPI,Noida,India
+ORD186,CUST168,Vikram Singh,Backpack,Fashion,4,799,28-01-2026,Net Banking,Bangalore,India
+ORD187,CUST179,Sneha Reddy,Smartphone,Electronics,3,18999.99,08-01-2026,Credit Card,Kolkata,India
+ORD188,CUST112,Deepak Yadav,Headphones,Electronics,1,1299.49,15-01-2026,Debit Card,Patna,India
+ORD189,CUST138,Manoj Gupta,Wireless Mouse,Electronics,1,599.99,11-01-2026,Credit Card,Chennai,India
+ORD190,CUST145,Neha Jain,Laptop,Electronics,2,55999,08-01-2026,Net Banking,Kolkata,India
+ORD191,CUST172,Pooja Nair,Study Lamp,Home Decor,2,899,06-01-2026,Debit Card,Hyderabad,India
+ORD192,CUST178,Kavya Pillai,Laptop,Electronics,5,55999,22-01-2026,Debit Card,Ahmedabad,India
+ORD193,CUST174,Arjun Patel,Smartphone,Electronics,4,18999.99,21-01-2026,UPI,Ahmedabad,India
+ORD194,CUST132,Pooja Nair,Wireless Mouse,Electronics,4,599.99,29-01-2026,UPI,Noida,India
+ORD195,CUST169,Arjun Patel,Running Shoes,Fashion,4,2499.5,31-01-2026,UPI,Kochi,India
+ORD196,CUST138,Pooja Nair,Laptop,Electronics,3,55999,15-01-2026,UPI,Delhi,India
+ORD197,CUST149,Kavya Pillai,Water Bottle,Accessories,1,299.99,08-01-2026,Cash,Kochi,India
+ORD198,CUST145,Suresh Iyer,Coffee Maker,Home Appliances,3,3499.75,01-01-2026,Cash,Chennai,India
+ORD199,CUST101,Suresh Iyer,Notebook,Stationery,1,49.99,30-01-2026,Net Banking,Patna,India
+ORD200,CUST163,Kavya Pillai,Tablet,Electronics,3,22999,25-01-2026,Debit Card,Kochi,India
